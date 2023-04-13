@@ -15,7 +15,7 @@ O Genius é um jogo eletrônico que estimula a memória e a atenção visual do 
 - Armazenamento da maior pontuação do jogador;
 
 
-## Tecnologias utilizadas 👨🏻‍💻
+## Tecnologias utilizadas 🏻‍0️⃣1️⃣
 
 - Java
 - Android Studio
